@@ -11,10 +11,6 @@
             font-size: 18px;
         }
         
-        blockquote footer {
-            color: #000000
-        }
-        
         a,
         button {
             transition: all .3s ease-in-out;
@@ -302,7 +298,7 @@
         
         .navbar-nav a.color_nav {
             font-weight: bolder;
-            color: #a1451a!important;
+            color: #A74152!important;
         }
         
         .navbar-brand {
@@ -664,7 +660,7 @@
         a {
             font-family: "helvetica";
             font-weight: 400;
-            color: #0e0e0e!important;
+            color: #575757!important;
         }
         
         .container {
@@ -711,7 +707,7 @@
         .social {
             max-width: 400px;
             margin: auto auto auto auto;
-            padding-top: 20px;
+            padding-top: 14px;
         }
         
         h2 {
@@ -782,7 +778,7 @@
         }
         
         .bgc-atomic-tangerine {
-            background-color: #F3976C;
+            background-color: #000000;
         }
         
         .tc-white {
@@ -790,12 +786,12 @@
         }
         
         .btn-atomic-tangerine {
-            background: #F3976C;
+            background: #962a3c;
             color: #FFFFFF!important;
         }
         
         .btn-atomic-tangerine:hover {
-            background: #c27956!important;
+            background: #A74152!important;
             color: #FFFFFF!important;
         }
         
