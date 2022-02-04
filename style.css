@@ -12,7 +12,7 @@
         }
         
         blockquote footer {
-            color: #575757
+            color: #000000
         }
         
         a,
@@ -664,7 +664,7 @@
         a {
             font-family: "helvetica";
             font-weight: 400;
-            color: #575757!important;
+            color: #0e0e0e!important;
         }
         
         .container {
