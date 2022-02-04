@@ -11,6 +11,10 @@
             font-size: 18px;
         }
         
+        blockquote footer {
+            color: #575757
+        }
+        
         a,
         button {
             transition: all .3s ease-in-out;
